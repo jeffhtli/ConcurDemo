@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConcurLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tokenInit">Getting...</string>
+    <string name="user">User</string>
+    <string name="expense_list">Expense List</string>
+
+</resources>
